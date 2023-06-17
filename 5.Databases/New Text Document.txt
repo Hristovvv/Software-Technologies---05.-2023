@@ -1,0 +1,5 @@
+ Relational databases and non-relational databases;
+ Working with MySQL and Workbench;
+ Importing database scripts, viewing and editing table/ collection data;
+ SQL intro;
+ Executing queries in MySQL

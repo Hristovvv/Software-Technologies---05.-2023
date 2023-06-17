@@ -1,0 +1,3 @@
+ Low-Level and High-Level Languages, Scripting vs. Compiled Languages, Examples;
+ Most Popular Programming Languages: JS, Java, Python, C#, PHP;
+ Getting Familiar with HTML, CSS and JavaScript.

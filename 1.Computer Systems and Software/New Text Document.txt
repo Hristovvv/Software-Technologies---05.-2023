@@ -1,0 +1,2 @@
+ Computer Hardware and OS;
+ Computer Software: Firmware, System, Server-Side, Web Apps, Desktop Apps, Mobile Apps.

@@ -1,0 +1,6 @@
+OSI Model, MAC address, IP address, TCP and ports;
+Network monitoring tools: Fiddler;
+Domains and DNS, WWW;
+HTTP, GET, POST, Browser DevTools;
+ Email protocols: SMTP and IMAP.
+ 
